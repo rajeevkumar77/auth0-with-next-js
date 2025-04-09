@@ -1,4 +1,4 @@
-const base_Url = "https://nodemailer-26bz.vercel.app"
+const base_Url = "https://nodemailer-kappa-three.vercel.app"
 import axios from "axios";
 
 //post request using axios
