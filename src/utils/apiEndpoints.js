@@ -1,4 +1,4 @@
-const base_Url = "http://localhost:5501"
+const base_Url = "https://nodemailer-26bz.vercel.app"
 import axios from "axios";
 
 //post request using axios
